@@ -96,6 +96,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or collaborations, reach out via:
-- Twitter: [@yourhandle](https://twitter.com/emmanueldoji)
+- X(Twitter): [@emmanueldoji](https://twitter.com/emmanueldoji)
 - Email: dojiemma@example.com
 
