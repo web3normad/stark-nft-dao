@@ -5,7 +5,7 @@
     "model": "meta-llama/Llama-2-70b-instruct",
     "settings": {
       "secrets": {
-        "TOGETHER_API_KEY": "ebbe33da9f41930fad3eb27d4f04c70beb0820c10dcdfefc5a29727ae5e2331e"
+        "TOGETHER_API_KEY": "022edeea62a981f6057b6688ed96a2c8be83a43d02cb0d5cdf4969343a1cb969"
       },
       "chains": {
         "StarkNet": [
