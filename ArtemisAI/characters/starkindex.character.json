@@ -5,7 +5,7 @@
     "model": "gpt-4o-mini",
     "settings": {
       "secrets": {
-        "OPENAI_API_KEY": "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"
+        "OPENAI_API_KEY": "OPENAI_API_KEY"
       },
       "chains": {
         "StarkNet": [
